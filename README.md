@@ -10,10 +10,10 @@ Este é um jogo de aventura e exploração de masmorras, inspirado nos mais trad
 O objetivo do jogo é derrotar o Chefe da Masmorra, que será revelado após a exploração de um determinado número de salas (4 salas para 2 Heróis, 5 salas para 3 Heróis e 6 salas para 4 Heróis).
 
 O jogo se desenvolve em uma série de rodadas e cada rodada possui 4 fases: 
-**Fase dos Heróis** – onde os Hérois, em ordem determinada pelos jogadores, realizam suas ações.
-**Fase dos Inimigos** – na qual as criaturas que povoam as masmorras tentarão impedir o avanço dos Heróis.
-**Fase de Eventos** – quando uma carta de eventos é revelada e apresenta desafios inesperados aos Heróis.
-**Fim da Rodada** – onde alguns efeitos que possam ter afetado a rodada se dissipam e os jogadores têm a oportunidade de usar pontos de experiência para desenvolver seus personagens. 
+- **Fase dos Heróis** – Onde os Hérois, em ordem determinada pelos jogadores, realizam suas ações.
+- **Fase dos Inimigos** – Na qual as criaturas que povoam as masmorras tentarão impedir o avanço dos Heróis.
+- **Fase de Eventos** – Quando uma carta de eventos é revelada e apresenta desafios inesperados aos Heróis.
+- **Fim da Rodada** – Onde alguns efeitos que possam ter afetado a rodada se dissipam e os jogadores têm a oportunidade de usar pontos de experiência para desenvolver seus personagens. 
 
 O jogo acaba imediatamente em vitória, caso o Chefe da Masmorra seja eliminado, ou em derrota caso algum dos Heróis morra antes da última sala ser revelada ou caso seja necessário revelar uma carta de eventos e não haja mais cartas no baralho de eventos.
 
