@@ -18,3 +18,10 @@ O jogo se desenvolve em uma série de rodadas e cada rodada possui 4 fases:
 O jogo acaba imediatamente em vitória, caso o Chefe da Masmorra seja eliminado, ou em derrota caso algum dos Heróis morra antes da última sala ser revelada ou caso seja necessário revelar uma carta de eventos e não haja mais cartas no baralho de eventos.
 
 Após a última sala ser revelada e o Chefe da Masmorra entrar em jogo, a luta final dura até que o mal supremo seja erradicado com a derrota do Inimigo ou que todos os Heróis caiam em combate.
+
+## Vídeos com Regras e Gameplay
+Link para o vídeo com as regras do jogo: https://youtu.be/dsEYYXnNnOY
+
+Link para o vídeo de uma partida de exemplo do jogo: https://youtu.be/upLrlqOwAZQ
+
+Link para jogar pelo Tabletopia: https://tabletopia.com/games/gustavosilveira-xnqvzd/play-now
