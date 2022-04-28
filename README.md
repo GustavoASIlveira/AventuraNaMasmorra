@@ -24,4 +24,6 @@ Link para o vídeo com as regras do jogo: https://youtu.be/dsEYYXnNnOY
 
 Link para o vídeo de uma partida de exemplo do jogo: https://youtu.be/upLrlqOwAZQ
 
+Link para outro vídeo de uma partida de exemplo do jogo: https://youtu.be/DPFtGoxJovU
+
 Link para jogar pelo Tabletopia: https://tabletopia.com/games/gustavosilveira-xnqvzd/play-now
